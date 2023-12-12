@@ -2,7 +2,7 @@ import cvImage from './../img/cv1.jpg';
 import munamiiImage from './../img/munami.jpg';
 import responsiveImage from './../img/responsiv.jpg';
 import portfolioImage from './../img/portfolio.jpg';
-import productListImage from './../img/pic2.jpeg';
+import productListImage from './../img/images.jpg';
 import trackMoneyImage from './../img/track-money.jpeg';
 import assetTrackingImage from './../img/pic2-2.png';
 
