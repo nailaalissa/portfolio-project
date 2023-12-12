@@ -1,16 +1,17 @@
 import React from 'react';
 import './hero.css';
+import './../../icon/style.css';
 import Lottie from 'lottie-react';
 import developerAnimation from '../animation/dev.json';
 import { useRef } from 'react';
-
+import img1 from './../../nailaphoto.png';
 export default function Hero() {
   const lottieRef = useRef();
   return (
     <section className="hero flex">
       <div className="left-section">
         <div className="parent-avatar flex">
-          <img src="./nailaphoto.png" className="avatar" alt="" />
+          <img src={img1} className="avatar" alt="" />
           <div className="icon-verified"></div>
         </div>
         <h1 className="title"> Eng.Naila Alissa</h1>
