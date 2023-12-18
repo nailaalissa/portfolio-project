@@ -5,6 +5,8 @@ import portfolioImage from './../img/portfolio.jpg';
 import productListImage from './../img/images.jpg';
 import trackMoneyImage from './../img/track-money.jpeg';
 import assetTrackingImage from './../img/pic2-2.png';
+import bookImage from './../img/book.jpg';
+import paket from './../img/paket.jpg';
 
 export const myProjects = [
   {
@@ -22,6 +24,22 @@ export const myProjects = [
     projectText:
       'This project is a responsive website designed to showcase and provide information about Munamii delicious cakes and cupcakes.',
     link: 'https://github.com/nailaalissa/homwork3-miniproject',
+  },
+  {
+    projectTitle: 'My Book List',
+    category: ['css', 'java'],
+    imgPath: bookImage,
+    projectText:
+      'This project is a responsive website designed to showcase and provide information abou My favorit Books',
+    link: 'https://nailaalissa.github.io/FooCoding/javascript/javaScript2/week01/index.html',
+  },
+  {
+    projectTitle: 'Package Tracking Viewer',
+    category: ['react', 'java'],
+    imgPath: paket,
+    projectText:
+      'This is a simple web app for our customers that displays a list of orders (or parcels) with some details they need to know',
+    link: 'https://nailaalissa.github.io/package-tracking/',
   },
   {
     projectTitle: 'Responsive Web Page',
