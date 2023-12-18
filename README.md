@@ -1,5 +1,14 @@
   <h1><a href="https://nailaalissa.github.io/portfolio-project/">Naila Alissa Portfolio </a></h1>
+# My Portfolio React App
 
+Welcome to my personal portfolio React app! This project serves as an interactive showcase of my skills, projects, and experiences. Feel free to explore and learn more about my background as a developer.
+
+## Table of Contents
+
+- [Introduction]
+- [My Applications]
+- [Get ontact with me]
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
