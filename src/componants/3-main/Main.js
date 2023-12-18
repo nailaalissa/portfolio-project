@@ -71,7 +71,7 @@ export default function Main() {
                 initial={{ transform: 'scale(0,8)' }}
                 animate={{ transform: 'scale(1)' }}
                 // exit={{ transform: 'scale(0)' }}
-                transition={{ type: 'spring' }}
+                transition={{ type: 'spring', damping: 8, stiffness: 30 }}
               >
                 <img width={250} height={150} src={item.imgPath} alt="" />
                 <div style={{ width: '250px', height: '260px' }} className="box">
