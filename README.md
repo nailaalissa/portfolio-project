@@ -5,9 +5,9 @@ Welcome to my personal portfolio React app! This project serves as an interactiv
 
 ## Table of Contents
 
-- [Introduction]
-- [My Applications]
-- [Get ontact with me]
+- Introduction
+- My Applications
+- Get ontact with me
   
 # Getting Started with Create React App
 
