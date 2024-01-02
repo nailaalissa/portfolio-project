@@ -23,7 +23,7 @@ export const myProjects = [
     imgPath: munamiiImage,
     projectText:
       'This project is a responsive website designed to showcase and provide information about Munamii delicious cakes and cupcakes.',
-    link: 'https://github.com/nailaalissa/homwork3-miniproject',
+    link: 'https://nailaalissa.github.io/Munamii-WebPage/index.html',
   },
   {
     projectTitle: 'My Book List',
