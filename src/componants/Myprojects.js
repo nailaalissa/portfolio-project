@@ -81,4 +81,12 @@ export const myProjects = [
       'Project serves as the foundation for a comprehensive system designed to manage and monitor company assets efficiently. ',
     link: 'https://github.com/nailaalissa/homwork3-miniproject',
   },
+  {
+    projectTitle: 'Munamii WebPage',
+    category: ['css', 'java'],
+    imgPath: munamiiImage,
+    projectText:
+      'This project is a responsive website designed to showcase and provide information about Munamii delicious cakes and cupcakes.',
+    link: 'https://nailaalissa.github.io/Munamii-WebPage/index.html',
+  },
 ];
