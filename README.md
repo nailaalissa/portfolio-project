@@ -1,4 +1,4 @@
-  <a href="https://nailaalissa.github.io/portfolio-project/">Naila Alissa Portfolio using React </a>
+  <a href="https://nailaalissa.github.io/portfolio-project/">My Portfolio using React </a>
   
 Welcome to my personal portfolio React app! This project serves as an interactive showcase of my skills, projects, and experiences. Feel free to explore and learn more about my background as a developer.
 
